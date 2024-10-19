@@ -1,45 +1,3 @@
-# IDS706 Complex_SQL_Databricks
-![CI Status](https://github.com/YitaoS/Complex_DB_Query/actions/workflows/cicd.yml/badge.svg)
-## Getting Started
-
-### Prerequisites
-
-- Python 3.9 or higher
-- Docker (if using DevContainer)
-
-### Installation
-
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/YitaoS/ids706_mini_project.git
-   cd ids706_mini_project
-   ```
-
-2. **Install dependencies**:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. **Optional: Build the development environment using DevContainer**:
-   - Open the project in Visual Studio Code.
-   - Run **Reopen in Container** from the Command Palette (`Ctrl + Shift + P` or `Cmd + Shift + P`).
-
-### Usage
-
-- To run the main script:
-  ```bash
-  python ids706_mini_project/main.py
-  ```
-
-- To run tests:
-  ```bash
-  make test
-  ```
-
-- To format the code:
-  ```bash
-  make format
-
 ### Explanation of the Complex SQL Query
 
 1. **`WITH city_totals AS (...)`**:
@@ -63,3 +21,6 @@ The query will output a table that contains:
 - **Average Order Value**: The average value of an order placed in that city.
 
 The results will be sorted by the total amount spent per city, showing the cities with the highest revenue first. This can be useful for identifying the most profitable regions and understanding customer distribution and spending patterns per city.
+
+### Result
+![result](image.png)
