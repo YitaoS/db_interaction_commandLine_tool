@@ -1,0 +1,36 @@
+name: CI/CD Pipeline
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      # Checkout code using the latest version of the action
+      - uses: actions/checkout@v3
+
+      # Set up Python environment
+      - name: Set up Python
+        uses: actions/setup-python@v3
+        with:
+          python-version: '3.9'
+
+      # Install dependencies
+      - name: Install dependencies
+        run: make install
+      # format code
+      - name: Format code
+        run: make format
+      # lint code
+      - name: Lint code
+        run: make lint
+      # Run tests
+      - name: Run tests
+        env: 
+          DATABRICKS_KEY: ${{secrets.DATABRICKS_KEY}}
+          SERVER_HOSTNAME: ${{secrets.SERVER_HOSTNAME}}
+          HTTP_PATH: ${{secrets.HTTP_PATH}}
+        run: make test

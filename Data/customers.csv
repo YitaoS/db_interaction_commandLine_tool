@@ -1,0 +1,201 @@
+customer_id,customer_name,city
+1,Customer_1,Dallas
+2,Customer_2,Houston
+3,Customer_3,San Jose
+4,Customer_4,Phoenix
+5,Customer_5,Dallas
+6,Customer_6,San Francisco
+7,Customer_7,Chicago
+8,Customer_8,Dallas
+9,Customer_9,San Jose
+10,Customer_10,Phoenix
+11,Customer_11,Houston
+12,Customer_12,San Jose
+13,Customer_13,San Jose
+14,Customer_14,Chicago
+15,Customer_15,San Diego
+16,Customer_16,Phoenix
+17,Customer_17,Los Angeles
+18,Customer_18,San Jose
+19,Customer_19,San Diego
+20,Customer_20,Los Angeles
+21,Customer_21,Phoenix
+22,Customer_22,New York
+23,Customer_23,San Francisco
+24,Customer_24,San Diego
+25,Customer_25,Austin
+26,Customer_26,New York
+27,Customer_27,San Francisco
+28,Customer_28,Chicago
+29,Customer_29,Dallas
+30,Customer_30,Houston
+31,Customer_31,Austin
+32,Customer_32,Chicago
+33,Customer_33,Phoenix
+34,Customer_34,Chicago
+35,Customer_35,Dallas
+36,Customer_36,Phoenix
+37,Customer_37,Austin
+38,Customer_38,Dallas
+39,Customer_39,Los Angeles
+40,Customer_40,Houston
+41,Customer_41,Austin
+42,Customer_42,Los Angeles
+43,Customer_43,San Francisco
+44,Customer_44,Austin
+45,Customer_45,San Francisco
+46,Customer_46,Phoenix
+47,Customer_47,Los Angeles
+48,Customer_48,Houston
+49,Customer_49,Dallas
+50,Customer_50,San Jose
+51,Customer_51,Chicago
+52,Customer_52,New York
+53,Customer_53,Houston
+54,Customer_54,Los Angeles
+55,Customer_55,San Jose
+56,Customer_56,Houston
+57,Customer_57,Los Angeles
+58,Customer_58,San Diego
+59,Customer_59,San Diego
+60,Customer_60,San Francisco
+61,Customer_61,Houston
+62,Customer_62,San Diego
+63,Customer_63,Los Angeles
+64,Customer_64,San Francisco
+65,Customer_65,Los Angeles
+66,Customer_66,San Francisco
+67,Customer_67,Houston
+68,Customer_68,San Jose
+69,Customer_69,Dallas
+70,Customer_70,Austin
+71,Customer_71,San Jose
+72,Customer_72,Phoenix
+73,Customer_73,Los Angeles
+74,Customer_74,Phoenix
+75,Customer_75,San Jose
+76,Customer_76,San Francisco
+77,Customer_77,Austin
+78,Customer_78,Austin
+79,Customer_79,New York
+80,Customer_80,Austin
+81,Customer_81,Dallas
+82,Customer_82,Austin
+83,Customer_83,San Jose
+84,Customer_84,New York
+85,Customer_85,San Jose
+86,Customer_86,San Jose
+87,Customer_87,Chicago
+88,Customer_88,New York
+89,Customer_89,San Jose
+90,Customer_90,Chicago
+91,Customer_91,Chicago
+92,Customer_92,New York
+93,Customer_93,Phoenix
+94,Customer_94,San Francisco
+95,Customer_95,Dallas
+96,Customer_96,San Francisco
+97,Customer_97,Austin
+98,Customer_98,Dallas
+99,Customer_99,Austin
+100,Customer_100,San Jose
+101,Customer_101,Los Angeles
+102,Customer_102,New York
+103,Customer_103,Dallas
+104,Customer_104,Dallas
+105,Customer_105,San Jose
+106,Customer_106,Phoenix
+107,Customer_107,Chicago
+108,Customer_108,San Jose
+109,Customer_109,San Diego
+110,Customer_110,Chicago
+111,Customer_111,New York
+112,Customer_112,Chicago
+113,Customer_113,Phoenix
+114,Customer_114,Chicago
+115,Customer_115,New York
+116,Customer_116,Phoenix
+117,Customer_117,San Francisco
+118,Customer_118,Dallas
+119,Customer_119,Dallas
+120,Customer_120,Austin
+121,Customer_121,San Francisco
+122,Customer_122,San Francisco
+123,Customer_123,Chicago
+124,Customer_124,Dallas
+125,Customer_125,New York
+126,Customer_126,Houston
+127,Customer_127,Houston
+128,Customer_128,Phoenix
+129,Customer_129,Dallas
+130,Customer_130,Dallas
+131,Customer_131,Houston
+132,Customer_132,Dallas
+133,Customer_133,Chicago
+134,Customer_134,San Diego
+135,Customer_135,Los Angeles
+136,Customer_136,San Francisco
+137,Customer_137,Austin
+138,Customer_138,Phoenix
+139,Customer_139,San Diego
+140,Customer_140,Houston
+141,Customer_141,San Francisco
+142,Customer_142,Dallas
+143,Customer_143,Austin
+144,Customer_144,Dallas
+145,Customer_145,New York
+146,Customer_146,New York
+147,Customer_147,Austin
+148,Customer_148,Austin
+149,Customer_149,Houston
+150,Customer_150,Austin
+151,Customer_151,Chicago
+152,Customer_152,Dallas
+153,Customer_153,San Diego
+154,Customer_154,San Jose
+155,Customer_155,Austin
+156,Customer_156,Phoenix
+157,Customer_157,New York
+158,Customer_158,Chicago
+159,Customer_159,San Francisco
+160,Customer_160,San Jose
+161,Customer_161,San Diego
+162,Customer_162,San Jose
+163,Customer_163,Austin
+164,Customer_164,Houston
+165,Customer_165,New York
+166,Customer_166,New York
+167,Customer_167,San Francisco
+168,Customer_168,Houston
+169,Customer_169,Dallas
+170,Customer_170,Los Angeles
+171,Customer_171,Chicago
+172,Customer_172,New York
+173,Customer_173,Phoenix
+174,Customer_174,New York
+175,Customer_175,San Jose
+176,Customer_176,New York
+177,Customer_177,New York
+178,Customer_178,Los Angeles
+179,Customer_179,Los Angeles
+180,Customer_180,San Diego
+181,Customer_181,Dallas
+182,Customer_182,Phoenix
+183,Customer_183,New York
+184,Customer_184,New York
+185,Customer_185,Chicago
+186,Customer_186,Los Angeles
+187,Customer_187,Phoenix
+188,Customer_188,San Francisco
+189,Customer_189,San Diego
+190,Customer_190,Dallas
+191,Customer_191,Houston
+192,Customer_192,Dallas
+193,Customer_193,San Jose
+194,Customer_194,New York
+195,Customer_195,San Diego
+196,Customer_196,San Jose
+197,Customer_197,Phoenix
+198,Customer_198,Houston
+199,Customer_199,Los Angeles
+200,Customer_200,San Diego
