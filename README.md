@@ -1,4 +1,4 @@
-# IDS706 Complex_SQL_Databricks
+# IDS706 Database CommandLine Tool
 ![CI Status](https://github.com/YitaoS/db_interaction_commandLine_tool/actions/workflows/cicd.yml/badge.svg)
 ## Getting Started
 
